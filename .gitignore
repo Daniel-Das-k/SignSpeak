@@ -83,7 +83,6 @@ one_hand_model.p
 requirements.txt
 slanguage.ipynb
 sst.py
-tts.py
 two_hand_model.p
 words.py
 youtube.py
