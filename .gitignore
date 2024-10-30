@@ -92,7 +92,6 @@ datasetMain.csv
 words.py
 main.py
 model.p
-translate.py
 sst.py
 tts.py
 alphabets.ipynb
