@@ -92,7 +92,6 @@ datasetMain.csv
 words.py
 main.py
 model.p
-sst.py
 tts.py
 alphabets.ipynb
 youtube.py
