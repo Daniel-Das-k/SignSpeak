@@ -72,8 +72,7 @@ logs/
 data/
 MPS_Data/
 mptry/
-numberdetect/
-alphabets1.py
+
 requirements.txt
 slanguage.ipynb
 sample.wav
