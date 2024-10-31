@@ -83,7 +83,6 @@ requirements.txt
 slanguage.ipynb
 sample.wav
 sign.ipynb
-sign.py
 off_speech.wav
 main.py
 youtube.py
