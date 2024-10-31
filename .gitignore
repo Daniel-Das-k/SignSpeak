@@ -72,8 +72,6 @@ logs/
 data/
 MPS_Data/
 mptry/
-requirements.txt
-slanguage.ipynb
 sample.wav
 off_speech.wav
 
