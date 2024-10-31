@@ -67,12 +67,11 @@ dmypy.json
 .pyre/
 .pytype/
 cython_debug/
-on_speech.mp3
+
 logs/
 data/
 MPS_Data/
 mptry/
-sample.wav
-off_speech.wav
+
 
 
