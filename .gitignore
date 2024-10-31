@@ -70,7 +70,7 @@ cython_debug/
 on_speech.mp3
 logs/
 data/
-MPS_Data/
+
 
 requirements.txt
 slanguage.ipynb
