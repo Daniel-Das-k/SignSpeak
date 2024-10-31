@@ -87,7 +87,5 @@ sign.py
 off_speech.wav
 one_hand_model.p
 alphabets.py
-dataset.csv
-datasetMain.csv
 main.py
 youtube.py
