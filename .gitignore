@@ -78,7 +78,6 @@ vosk-model-small-en-in-0.4/
 alphabets1.py
 action.h5
 actionMain.h5
-numberdetection.py
 requirements.txt
 slanguage.ipynb
 sample.wav
