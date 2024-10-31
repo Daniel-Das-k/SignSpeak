@@ -71,7 +71,6 @@ on_speech.mp3
 logs/
 data/
 MPS_Data/
-mptry/
 
 requirements.txt
 slanguage.ipynb
