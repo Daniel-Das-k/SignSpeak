@@ -70,11 +70,11 @@ cython_debug/
 on_speech.mp3
 logs/
 data/
-
-
+MPS_Data/
+mptry/
 requirements.txt
 slanguage.ipynb
 sample.wav
 off_speech.wav
-main.py
-youtube.py
+
+
