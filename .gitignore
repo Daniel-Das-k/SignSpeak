@@ -76,8 +76,6 @@ numberdetect/
 vosk-model-small-en-in-0.4/
 0.npy
 alphabets1.py
-action.h5
-actionMain.h5
 requirements.txt
 slanguage.ipynb
 sample.wav
