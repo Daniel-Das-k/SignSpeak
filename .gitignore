@@ -73,7 +73,6 @@ data/
 MPS_Data/
 mptry/
 numberdetect/
-vosk-model-small-en-in-0.4/
 alphabets1.py
 requirements.txt
 slanguage.ipynb
