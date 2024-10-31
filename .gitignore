@@ -82,7 +82,6 @@ numberdetection.py
 requirements.txt
 slanguage.ipynb
 sample.wav
-sign.ipynb
 off_speech.wav
 main.py
 youtube.py
